@@ -1,0 +1,45 @@
+01/04/2019 23:16:00https://www.alura.com.br- online: true
+01/04/2019 23:16:01http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:01http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:16:06https://www.alura.com.br- online: true
+01/04/2019 23:16:07http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:07http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:16:12https://www.alura.com.br- online: true
+01/04/2019 23:16:13http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:13http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:16:18https://www.alura.com.br- online: true
+01/04/2019 23:16:19http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:19http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:16:24https://www.alura.com.br- online: true
+01/04/2019 23:16:24http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:25http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:16:50 - https://www.alura.com.br- online: true
+01/04/2019 23:16:51 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:51 - http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:16:57 - https://www.alura.com.br- online: true
+01/04/2019 23:16:57 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:16:57 - http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:17:02 - https://www.alura.com.br- online: true
+01/04/2019 23:17:03 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:17:03 - http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:17:08 - https://www.alura.com.br- online: true
+01/04/2019 23:17:09 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:17:09 - http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:17:14 - https://www.alura.com.br- online: true
+01/04/2019 23:17:14 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:17:15 - http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:24:04 - https://www.alura.com.br- online: true
+01/04/2019 23:24:05 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:24:06 - http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:24:11 - https://www.alura.com.br- online: true
+01/04/2019 23:24:11 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:24:11 - http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:24:16 - https://www.alura.com.br- online: true
+01/04/2019 23:24:17 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:24:17 - http://random-status-code.herokuapp.com- online: true
+01/04/2019 23:24:22 - https://www.alura.com.br- online: true
+01/04/2019 23:24:23 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:24:23 - http://random-status-code.herokuapp.com- online: false
+01/04/2019 23:24:28 - https://www.alura.com.br- online: true
+01/04/2019 23:24:28 - http://www.ocaminhodoprogramador.com.br- online: true
+01/04/2019 23:24:29 - http://random-status-code.herokuapp.com- online: true
